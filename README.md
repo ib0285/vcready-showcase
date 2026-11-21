@@ -2,9 +2,9 @@
 
 **Calculate the financial metrics venture capitalists use to evaluate startups — without needing a finance background.**
 
-> **Status:** Fully built web application, not publicly launched. Source code is private; available on request.
+A web application I designed and built so a founder can enter this month's numbers and see the usual SaaS and startup metrics, with plain-language explanations and a one-page report.
 
-**Timeline:** Project, 2025
+**Live demo:** [https://vcready.vercel.app](https://vcready.vercel.app) — you can try it as a guest, with no sign-up.
 
 ## Screenshots
 
@@ -43,6 +43,7 @@
 - **What-if sliders** to recalculate runway, CAC, CAC payback, LTV, LTV:CAC and net burn on the page, without saving changes.
 - **One-page investor report** with a traffic-light status and 3 AI tips, ready to download or print.
 - **Sample startups** (Northbeam Notes, Parcel & Pine and Harborline) with fictional figures, so you can explore the dashboard, sliders and report.
+- **Guest access** on the live demo, with no account required.
 
 ## Tech stack
 
